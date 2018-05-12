@@ -1,0 +1,41 @@
+_repo: Jack-Hardy_43334
+_version: 0.1.0
+alternative_title: Jack Hardy; Or, A Hundred Years Ago
+contributor:
+  illustrator:
+    agent_name: Rainey, W. (William)
+    aliases:
+    - Rainey, W.
+    - Rainey, William
+    - Rainey, H. W. (H. William)
+    birthdate: 1852
+    deathdate: 1936
+    gutenberg_agent_id: '9704'
+    url: http://www.gutenberg.org/2009/agents/9704
+covers:
+- cover_type: archival
+  image_path: 43334-rst/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Strang, Herbert
+    gutenberg_agent_id: '5234'
+    url: http://www.gutenberg.org/2009/agents/5234
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Herbert_Strang
+    - http://www.gutenberg.org/ebooks/author/39124
+description: ''
+gutenberg_issued: '2013-07-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Great Britain -- History -- 19th century -- Juvenile fiction'
+- !lcsh 'Smugglers -- Juvenile fiction'
+- !lcsh 'Sailors -- Juvenile fiction'
+title: 'Jack Hardy: A Story of English Smugglers in the Days of Napoleon'
+url: http://www.gutenberg.org/ebooks/43334
